@@ -22,7 +22,7 @@ The tools that are required to use this example are the following:
 * Numpy 1.5 or higher
 * Sympy 1.3 or higher (Sympy website) [https://www.sympy.org/en/download.html]
 
-#Code status
+# Code status
 [![Build Status](https://secure.travis-ci.org/joshwnj/inline-docs.png)](http://travis-ci.org/joshwnj/inline-docs)
 
 # License
