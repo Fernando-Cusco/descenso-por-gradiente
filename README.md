@@ -6,11 +6,11 @@ Las herramientas que se requieren para poder emplear este ejemplo son las siguie
 * Python 3.6 o superior
 * Matplotlib 3.0 o superior
 * Numpy 1.5 o superior
-* Sympy 1.3 o superior (Sympy web site)[https://www.sympy.org/en/download.html]
+* Sympy 1.3 o superior [Sympy web site](https://www.sympy.org/en/download.html)
 
 
 # Gradient descent
-This repository presents a brief review of the gradient descent method using Jupyter Notebook. It contains 2 notebooks where the importance of this method in the field of neural networks is described in a general way. The first book addresses the method applied to functions with one variable, while the second addresses examples of functions that have two variables.
+This repository presents a brief review of the gradient descent method using Jupyter Notebook (in Spanish). It contains 2 notebooks where the importance of this method in the field of neural networks is described in a general way. The first book addresses the method applied to functions with one variable, while the second addresses examples of functions that have two variables.
 
 The tools that are required to use this example are the following:
 
@@ -18,3 +18,6 @@ The tools that are required to use this example are the following:
 * Matplotlib 3.0 or higher
 * Numpy 1.5 or higher
 * Sympy 1.3 or higher (Sympy website) [https://www.sympy.org/en/download.html]
+
+# License
+The contents of this repository are covered under the [MIT License](LICENSE)
