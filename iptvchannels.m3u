@@ -5,10 +5,12 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TELESUR [360p]
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1,=== Обновлён: 22.05.2019 ===
-https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
-#EXTINF:-1,=== Обсуждение: smarttvnews.ru ===
-https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:-1,Russia Today (Espanol)
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1,Russia Today Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,HISPAN TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
 #EXTINF:0,Discovery Channel 
 http://213.174.8.7:8000/play/24/index.m3u8
 #EXTINF:0,NatGeo Wild
